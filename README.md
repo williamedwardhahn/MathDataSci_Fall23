@@ -2,7 +2,7 @@
 
 <hr>
 
-[Slides](https://docs.google.com/document/d/1robxhjHGDE-xlW65worsEPYM9NlMx5MB0eX4VZR-4KY/edit?usp=sharing)
+[Slides](https://docs.google.com/presentation/d/1yTMsjVTuRpQCWYUB5bRqmMdR3zbm4SHhc-cBgeQpjYM/edit?usp=sharing)
 
 
 [Syllabus](https://docs.google.com/document/d/1IMQl7Q71oHYBVIENExWYy8Zbwna6pqU1dsNr6vRmdaU/edit?usp=sharing)
