@@ -14,7 +14,7 @@
 [Github, Colab, Overleaf Intro](https://www.youtube.com/watch?v=50wdMpfO9t0)
 
 ## Researcher Roster
-[Roster](https://docs.google.com/presentation/d/1v-JmiJSsevYhvAT2_AI30L-v0Lr-urQwHAqmasQFJi0/edit?usp=sharing)https://docs.google.com/presentation/d/1v-JmiJSsevYhvAT2_AI30L-v0Lr-urQwHAqmasQFJi0/edit?usp=sharing
+[Roster](https://docs.google.com/presentation/d/1v-JmiJSsevYhvAT2_AI30L-v0Lr-urQwHAqmasQFJi0/edit?usp=sharing)
 
 ## Links
 [Spectrogram](https://musiclab.chromeexperiments.com/spectrogram/)
