@@ -13,6 +13,10 @@
 
 [Github, Colab, Overleaf Intro](https://www.youtube.com/watch?v=50wdMpfO9t0)
 
+## Data Deck Slides
+[Template](https://docs.google.com/presentation/d/1WVE287B4LBI3dZOvofhCrzpc8pP8PWHan8WUhLB9swA/edit?usp=sharing)
+
+
 ## Researcher Roster
 [Roster](https://docs.google.com/presentation/d/1v-JmiJSsevYhvAT2_AI30L-v0Lr-urQwHAqmasQFJi0/edit?usp=sharing)
 
