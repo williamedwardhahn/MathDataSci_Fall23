@@ -20,6 +20,8 @@
 ## Colab Notebooks
 [Notebook1](https://colab.research.google.com/drive/10W-q3ZJMBU-pClhYmIpqCUTw5RI7Q9li?usp=sharing)
 
+[Notebook2](https://colab.research.google.com/drive/1YepukYor05NHx0koqzhNEaPMTDpjI-Sa?usp=sharing)
+
 
 ## Researcher Roster
 [Roster](https://docs.google.com/presentation/d/1v-JmiJSsevYhvAT2_AI30L-v0Lr-urQwHAqmasQFJi0/edit?usp=sharing)
