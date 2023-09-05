@@ -23,7 +23,7 @@
 [Notebook2](https://colab.research.google.com/drive/1YepukYor05NHx0koqzhNEaPMTDpjI-Sa?usp=sharing)
 
 ## ChatGPT Study Prompts
-* Teach me numpy
+* *Teach me numpy*
 
 
 ## Researcher Roster
