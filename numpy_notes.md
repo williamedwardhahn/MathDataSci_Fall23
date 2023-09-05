@@ -8,9 +8,10 @@ This README provides an overview of some commonly used functions in the NumPy an
 
 The `np.zeros` function is used to create an array filled with zeros. It takes the shape of the array as an argument and returns an array of zeros with the specified shape.
 
-```python
+```
 import numpy as np
 
 # Create a 2x3 array filled with zeros
 zeros_array = np.zeros((2, 3))
 print(zeros_array)
+```
