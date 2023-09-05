@@ -25,8 +25,9 @@
 ## ChatGPT Study Prompts
 * *Teach me numpy*
 * *Teach me matplotlib*
-* *How do I make a random grayscale image and show it in matplotlib*
+* *How do I make a random grayscale image and show it in matplotlib?*
 * *Code to plot y=mx+b in python*
+* *How does indexing work in numpy?*
 
 
 ## Researcher Roster
