@@ -15,3 +15,10 @@ import numpy as np
 zeros_array = np.zeros((2, 3))
 print(zeros_array)
 ```
+
+
+```
+# Create a 4x4 identity matrix
+identity_matrix = np.eye(4)
+print(identity_matrix)
+```
