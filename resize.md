@@ -1,5 +1,7 @@
 # Resize Image
 
+[Colab Version](https://colab.research.google.com/drive/1EHX1OIS-b7DHXhhWoxiWsHITjmzNzBAg?usp=sharing)
+
 ```python 
 import matplotlib.pyplot as plt
 import numpy as np
