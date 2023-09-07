@@ -1,4 +1,4 @@
-
+# Resize Image
 
 ```python 
 import matplotlib.pyplot as plt
