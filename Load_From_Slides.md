@@ -14,7 +14,7 @@ from skimage.io import imread
 from skimage.transform import resize
 ```
 
-```
+```python
 def plot(x):
     fig, ax = plt.subplots()
     im = ax.imshow(x, cmap = 'gray')
@@ -37,11 +37,11 @@ def get_slides(url):
 ```
 
 
-```
+```python
 Data_Deck = "https://docs.google.com/presentation/d/12NWxIiiMua9mB6Lsj09JiyxC1FHvcO2Mrhf4jkOQeYo/edit#slide=id.g1e604f0493b_0_26"
 ```
 
-```
+```python
 image_list = get_slides(Data_Deck)
 
 n = len(image_list)
