@@ -8,5 +8,9 @@ from skimage.transform import resize
 ```
 
 ```python
-image = resize(image,(512,512))
+url = 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Claude_Monet%2C_Saint-Georges_majeur_au_cr%C3%A9puscule.jpg/800px-Claude_Monet%2C_Saint-Georges_majeur_au_cr%C3%A9puscule.jpg'
+im = imread(url)
+plt.imshow(im);
+im = resize(im,(512,512))
+plt.imshow(im);
 ```
