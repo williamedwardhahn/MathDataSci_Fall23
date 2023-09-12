@@ -22,6 +22,8 @@
 
 [Notebook2](https://colab.research.google.com/drive/1YepukYor05NHx0koqzhNEaPMTDpjI-Sa?usp=sharing)
 
+[MNIST Dataset](https://colab.research.google.com/drive/1NTT8UfoaV13p-rqkohWqtzQ2p6ICR2li?usp=sharing)
+
 ## ChatGPT Study Prompts
 * *Teach me numpy*
 * *Teach me matplotlib*
