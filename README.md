@@ -5,7 +5,7 @@
 [Slides](https://docs.google.com/presentation/d/1yTMsjVTuRpQCWYUB5bRqmMdR3zbm4SHhc-cBgeQpjYM/edit?usp=sharing)
 
 
-[Syllabus](https://docs.google.com/document/d/1IMQl7Q71oHYBVIENExWYy8Zbwna6pqU1dsNr6vRmdaU/edit?usp=sharing)
+[Syllabus](https://docs.google.com/document/d/12mHpnh3fezQCr29GafgqQLX3ibAWSxAbg7GNcxo6oQw/edit)
 
 1) Sign up for Github
 2) Sign up for Colab
