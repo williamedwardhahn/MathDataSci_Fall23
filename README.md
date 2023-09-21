@@ -24,6 +24,8 @@
 
 [MNIST Dataset](https://colab.research.google.com/drive/1NTT8UfoaV13p-rqkohWqtzQ2p6ICR2li?usp=sharing)
 
+[Data Dashboards](https://colab.research.google.com/drive/1haNqEs6KHLKlhedb9zDgmwAePYhGVNSJ?usp=sharing)
+
 ## ChatGPT Study Prompts
 * *Teach me numpy*
 * *Teach me matplotlib*
