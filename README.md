@@ -53,6 +53,7 @@
 * [To-Do-List](https://chat.openai.com/share/f041e5bd-edfd-4011-8530-d93e1e4e7bed)
 * [Countdown](https://chat.openai.com/share/b69fbb82-d70c-4393-93b4-3a7ca10f75bd)
 * [Random Picker](https://chat.openai.com/share/5baea6cf-2b8a-452f-81b3-db926989f556)
+* [Trash Night](https://chat.openai.com/share/2b91e342-9cec-47b3-a1de-090315fab77c)
 
 
 ## Researcher Roster
