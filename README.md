@@ -47,6 +47,13 @@
 * *How does indexing work in numpy?*
 
 
+## ChatGPT App Demos - Fix and Improve Them
+
+* [Coin Flip](https://chat.openai.com/share/fee203f6-48fe-4f9f-a744-42643e0b7cce)
+* 
+
+
+
 ## Researcher Roster
 [Roster](https://docs.google.com/presentation/d/1v-JmiJSsevYhvAT2_AI30L-v0Lr-urQwHAqmasQFJi0/edit?usp=sharing)
 
