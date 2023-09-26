@@ -29,6 +29,16 @@
 
 [Flowers 102](https://colab.research.google.com/drive/1YQ2txm0h41gvxnD_iEU4wmReGZX9hdWA?usp=sharing)
 
+## Homework Sets
+
+### Problem Set 1
+
+  * Load MNIST and show montage
+  * Run random y=mx model on MNIST
+  * Train random walk model to at least 75%
+  * Create .md markdown report and post to github
+
+
 ## ChatGPT Study Prompts
 * *Teach me numpy*
 * *Teach me matplotlib*
