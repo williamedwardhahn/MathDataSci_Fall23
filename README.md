@@ -44,3 +44,5 @@
 [Spectrogram](https://musiclab.chromeexperiments.com/spectrogram/)
 
 [Convolution](https://setosa.io/ev/image-kernels/#:~:text=An%20image%20kernel%20is%20a,important%20portions%20of%20an%20image.)
+
+[Deep Learning Viz Toolbox](https://www.youtube.com/watch?v=AgkfIQ4IGaM)
