@@ -31,6 +31,8 @@
 
 [Conv1](https://colab.research.google.com/drive/1kf0i0P2gFtkuCm5zVO68VT8fP8ryN0Iq?usp=sharing)
 
+[Alexnet](https://colab.research.google.com/drive/1onlVrce4bfYNpHOWysOa3PE4pv15vZo0?usp=sharing)
+
 ## Homework Sets
 
 ### Problem Set 1
