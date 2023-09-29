@@ -49,7 +49,7 @@
 * *How does indexing work in numpy?*
 
 
-## ChatGPT App Demos - Fix and Improve Them
+## ChatGPT App [Demos](https://williamedwardhahn.github.io/data_website/demo_index.html) - Fix and Improve Them
 * [Demo List](https://chat.openai.com/share/d6266903-2b6e-45ed-b734-d43a780b4aaa)
 * [Coin Flip](https://chat.openai.com/share/fee203f6-48fe-4f9f-a744-42643e0b7cce)
 * [To-Do-List](https://chat.openai.com/share/f041e5bd-edfd-4011-8530-d93e1e4e7bed)
