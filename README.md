@@ -1,5 +1,9 @@
 # Mathematics of Data Science
 
+
+## Recitation Classes Schedule
+* Tuesdays and Thursdays 2:30pm @ MPCR Lab Sandbox
+
 <hr>
 
 [Slides](https://docs.google.com/presentation/d/1yTMsjVTuRpQCWYUB5bRqmMdR3zbm4SHhc-cBgeQpjYM/edit?usp=sharing)
