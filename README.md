@@ -3,6 +3,8 @@
 
 ## Recitation Classes Schedule
 * Tuesdays and Thursdays 2:30pm @ MPCR Lab Sandbox
+  
+"Recitation classes are supplementary sessions led by teaching assistants or instructors that reinforce lecture material through exercises, discussions, and clarifications."
 
 <hr>
 
