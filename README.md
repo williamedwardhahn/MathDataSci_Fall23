@@ -73,3 +73,10 @@
 [Convolution](https://setosa.io/ev/image-kernels/#:~:text=An%20image%20kernel%20is%20a,important%20portions%20of%20an%20image.)
 
 [Deep Learning Viz Toolbox](https://www.youtube.com/watch?v=AgkfIQ4IGaM)
+
+
+
+## Web Demos
+
+[Conv1](https://williamedwardhahn.github.io/data_website/Conv3.html)https://williamedwardhahn.github.io/data_website/Conv3.html
+[Conv2](https://williamedwardhahn.github.io/data_website/Conv3.html)https://williamedwardhahn.github.io/data_website/Conv5.html
