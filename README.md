@@ -80,3 +80,12 @@
 
 [Conv1](https://williamedwardhahn.github.io/data_website/Conv3.html)https://williamedwardhahn.github.io/data_website/Conv3.html
 [Conv2](https://williamedwardhahn.github.io/data_website/Conv3.html)https://williamedwardhahn.github.io/data_website/Conv5.html
+
+
+
+## Advanced Material (Not Required)
+* [Compressed Sensing ](https://www.youtube.com/watch?v=RvMgVv-xZhQ)
+* [Extreme Learning Machine](https://colab.research.google.com/drive/1IFZ91C8mymfwVpG-36y9Xr3z_gi68PmJ?usp=sharing)
+* [Reservoir Computer](https://colab.research.google.com/drive/11TAM-3jN_6eYn2HyjWolLUHpAg0fWQMJ?usp=sharing) 
+* Finetune [Flowers 102](https://colab.research.google.com/drive/1YQ2txm0h41gvxnD_iEU4wmReGZX9hdWA?usp=sharing) on Image Transformer
+* 
