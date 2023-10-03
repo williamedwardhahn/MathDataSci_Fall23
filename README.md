@@ -52,8 +52,7 @@
 
 
 ## ChatGPT App Demos - Fix and Improve Them
-[Demos](https://williamedwardhahn.github.io/data_website/demo_index.html)
-
+* [Demos Index Page](https://williamedwardhahn.github.io/data_website/demo_index.html)
 * [Demo List](https://chat.openai.com/share/d6266903-2b6e-45ed-b734-d43a780b4aaa)
 * [Coin Flip](https://chat.openai.com/share/fee203f6-48fe-4f9f-a744-42643e0b7cce)
 * [To-Do-List](https://chat.openai.com/share/f041e5bd-edfd-4011-8530-d93e1e4e7bed)
@@ -78,8 +77,8 @@
 
 ## Web Demos
 
-[Conv1](https://williamedwardhahn.github.io/data_website/Conv3.html)https://williamedwardhahn.github.io/data_website/Conv3.html
-[Conv2](https://williamedwardhahn.github.io/data_website/Conv3.html)https://williamedwardhahn.github.io/data_website/Conv5.html
+[Classic Filters](https://williamedwardhahn.github.io/data_website/Conv3.html)
+[Random Filters](https://williamedwardhahn.github.io/data_website/Conv5.html)
 
 
 
@@ -88,4 +87,4 @@
 * [Extreme Learning Machine](https://colab.research.google.com/drive/1IFZ91C8mymfwVpG-36y9Xr3z_gi68PmJ?usp=sharing)
 * [Reservoir Computer](https://colab.research.google.com/drive/11TAM-3jN_6eYn2HyjWolLUHpAg0fWQMJ?usp=sharing) 
 * Finetune [Flowers 102](https://colab.research.google.com/drive/1YQ2txm0h41gvxnD_iEU4wmReGZX9hdWA?usp=sharing) on Image Transformer
-* 
+  
