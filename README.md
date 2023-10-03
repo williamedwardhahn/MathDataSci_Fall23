@@ -43,6 +43,17 @@
   * Create .md markdown report and post to github
 
 
+
+### Problem Set 2
+
+  * Load RGB image from URL
+  * Resize image
+  * Show grayscale copy
+  * Convolve with 10 random filters and show filters and features maps for each
+  * Create .md markdown report and post to github
+
+
+
 ## ChatGPT Study Prompts
 * *Teach me numpy*
 * *Teach me matplotlib*
