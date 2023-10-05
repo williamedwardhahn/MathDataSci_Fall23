@@ -1,6 +1,8 @@
 # Mathematics of Data Science
 
-
+## Wave Grant
+[Grant App
+](https://www.fau.edu/innovation-and-business-development/fau-wave/fau-wave-competition/)
 ## Recitation Classes Schedule
 * Tuesdays and Thursdays 2:30pm @ MPCR Lab Sandbox
   
