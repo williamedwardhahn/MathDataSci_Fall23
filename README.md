@@ -39,6 +39,8 @@
 
 [Alexnet](https://colab.research.google.com/drive/1onlVrce4bfYNpHOWysOa3PE4pv15vZo0?usp=sharing)
 
+[Autoencoder and GAN](https://colab.research.google.com/drive/1plbvxqA4vjJqJZ2XzUkUoZaXhabovhfv?usp=sharing)
+
 ## Homework Sets
 
 ### Problem Set 1
