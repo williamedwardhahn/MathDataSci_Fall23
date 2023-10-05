@@ -45,7 +45,7 @@
 
 ## Homework Sets
 
-### Problem Set 1
+### Problem Set 1 ([solutions](https://colab.research.google.com/drive/1PFowg9BEhZlhrzj4WvoNkmLvsGuuS1xR?usp=sharing))
 
   * Load MNIST and show montage
   * Run random y=mx model on MNIST
