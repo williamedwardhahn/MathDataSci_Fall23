@@ -45,6 +45,8 @@
 
 [AlexNet Functional](https://colab.research.google.com/drive/1gymf98aiTdUaM9eY8fgs3RM-wfb_sc78?usp=sharing)
 
+[Alexnet FMRI](https://colab.research.google.com/drive/1itMtHx_z4mBrI7ObqHI661LgBHa9fWWk?usp=sharing)
+
 ## Homework Sets
 
 ### Problem Set 1 ([solutions](https://colab.research.google.com/drive/1PFowg9BEhZlhrzj4WvoNkmLvsGuuS1xR?usp=sharing))
