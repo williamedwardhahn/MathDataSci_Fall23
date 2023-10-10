@@ -90,6 +90,9 @@
 [Roster](https://docs.google.com/presentation/d/1v-JmiJSsevYhvAT2_AI30L-v0Lr-urQwHAqmasQFJi0/edit?usp=sharing)
 
 ## Links
+
+[Convnet Types](https://github.com/vdumoulin/conv_arithmetic)
+
 [Spectrogram](https://musiclab.chromeexperiments.com/spectrogram/)
 
 [Convolution](https://setosa.io/ev/image-kernels/#:~:text=An%20image%20kernel%20is%20a,important%20portions%20of%20an%20image.)
