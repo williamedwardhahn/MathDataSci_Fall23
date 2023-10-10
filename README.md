@@ -43,6 +43,8 @@
 
 [Autoencoder and GAN](https://colab.research.google.com/drive/1plbvxqA4vjJqJZ2XzUkUoZaXhabovhfv?usp=sharing)
 
+[AlexNet Functional](https://colab.research.google.com/drive/1gymf98aiTdUaM9eY8fgs3RM-wfb_sc78?usp=sharing)
+
 ## Homework Sets
 
 ### Problem Set 1 ([solutions](https://colab.research.google.com/drive/1PFowg9BEhZlhrzj4WvoNkmLvsGuuS1xR?usp=sharing))
