@@ -51,6 +51,10 @@
 
 [Webcam](https://colab.research.google.com/drive/1EFj_9qfGDXioY315kMqYyYZHQDKyFKYP?usp=sharing)
 
+[Alexnet Filters](https://colab.research.google.com/drive/1YQ2txm0h41gvxnD_iEU4wmReGZX9hdWA?usp=sharing)
+
+[Custom Data Filter](https://colab.research.google.com/drive/1LgTU2EmyB-I2YICjckW0dClipVBrt-1z?usp=sharing)
+
 ## Homework Sets
 
 ### Problem Set 1 ([solutions](https://colab.research.google.com/drive/1PFowg9BEhZlhrzj4WvoNkmLvsGuuS1xR?usp=sharing))
