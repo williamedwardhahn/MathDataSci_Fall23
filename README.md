@@ -47,6 +47,8 @@
 
 [Alexnet FMRI](https://colab.research.google.com/drive/1itMtHx_z4mBrI7ObqHI661LgBHa9fWWk?usp=sharing)
 
+[Alexnet Filters and Feature Maps](https://colab.research.google.com/drive/11IJ27NHDdtqZASIkYMjCRH-39-Peaz3F?usp=sharing)
+
 ## Homework Sets
 
 ### Problem Set 1 ([solutions](https://colab.research.google.com/drive/1PFowg9BEhZlhrzj4WvoNkmLvsGuuS1xR?usp=sharing))
