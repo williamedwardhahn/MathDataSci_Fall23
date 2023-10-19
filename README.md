@@ -55,6 +55,8 @@
 
 [Custom Data Filter](https://colab.research.google.com/drive/1LgTU2EmyB-I2YICjckW0dClipVBrt-1z?usp=sharing)
 
+[Alexnet Train from Slides](https://colab.research.google.com/drive/16yId_Y7fSr6D89m-uU-RbUlArJ8bUmRL?usp=sharing)
+
 ## Homework Sets
 
 ### Problem Set 1 ([solutions](https://colab.research.google.com/drive/1PFowg9BEhZlhrzj4WvoNkmLvsGuuS1xR?usp=sharing))
