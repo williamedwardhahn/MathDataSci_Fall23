@@ -59,6 +59,8 @@
 
 [Yolo](https://colab.research.google.com/drive/1Fz4q_NRSEPkz8jVPJM-qrOQEYLmRrbEv?usp=sharing)
 
+[Projects](https://docs.google.com/document/d/1jN0r_sQBO9LokUmi0_TQZUkyb7Z1Vdz6mORofGj2Kzk/edit?usp=sharing)
+
 ## Homework Sets
 
 ### Problem Set 1 ([solutions](https://colab.research.google.com/drive/1PFowg9BEhZlhrzj4WvoNkmLvsGuuS1xR?usp=sharing))
