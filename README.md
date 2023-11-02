@@ -61,6 +61,9 @@
 
 [Projects](https://docs.google.com/document/d/1jN0r_sQBO9LokUmi0_TQZUkyb7Z1Vdz6mORofGj2Kzk/edit?usp=sharing)
 
+[Audio](https://colab.research.google.com/drive/1lrasjDqOvOz4h1vAbuCfiaJCVzpmXOuq?usp=sharing)
+
+
 ## Homework Sets
 
 ### Problem Set 1 ([solutions](https://colab.research.google.com/drive/1PFowg9BEhZlhrzj4WvoNkmLvsGuuS1xR?usp=sharing))
