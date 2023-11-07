@@ -2,6 +2,7 @@
 
 <img src="https://oceanbites.org/wp-content/uploads/2020/09/Screen-Shot-2020-09-02-at-9.13.22-PM.png"  width="500">
 
+<img src="https://raw.githubusercontent.com/williamedwardhahn/MathDataSci_Fall23/main/diatoms.png" width="500">
 
 
 ## Wave Grant
