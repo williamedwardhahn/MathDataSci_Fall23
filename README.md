@@ -1,5 +1,9 @@
 # Mathematics of Data Science
 
+<img src="path-to-image.jpg"  width="500">
+
+
+
 ## Wave Grant
 [Grant App
 ](https://www.fau.edu/innovation-and-business-development/fau-wave/fau-wave-competition/)
