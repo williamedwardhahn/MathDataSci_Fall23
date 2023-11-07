@@ -1,4 +1,5 @@
 # Mathematics of Data Science
+![image](https://github.com/williamedwardhahn/MathDataSci_Fall23/assets/2086166/0b8b735f-e899-4453-8a85-5120d3172701)
 
 <img src="https://oceanbites.org/wp-content/uploads/2020/09/Screen-Shot-2020-09-02-at-9.13.22-PM.png"  width="500">
 
