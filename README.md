@@ -1,6 +1,6 @@
 # Mathematics of Data Science
 
-<img src="path-to-image.jpg"  width="500">
+<img src="https://oceanbites.org/wp-content/uploads/2020/09/Screen-Shot-2020-09-02-at-9.13.22-PM.png"  width="500">
 
 
 
