@@ -1,9 +1,7 @@
 # Mathematics of Data Science
-![image](https://github.com/williamedwardhahn/MathDataSci_Fall23/assets/2086166/0b8b735f-e899-4453-8a85-5120d3172701)
-
-<img src="https://oceanbites.org/wp-content/uploads/2020/09/Screen-Shot-2020-09-02-at-9.13.22-PM.png"  width="500">
 
 <img src="https://raw.githubusercontent.com/williamedwardhahn/MathDataSci_Fall23/main/diatoms.png" width="500">
+[Projects](https://docs.google.com/document/d/1jN0r_sQBO9LokUmi0_TQZUkyb7Z1Vdz6mORofGj2Kzk/edit?usp=sharing)
 
 
 ## Wave Grant
@@ -64,8 +62,6 @@
 [Alexnet Train from Slides](https://colab.research.google.com/drive/16yId_Y7fSr6D89m-uU-RbUlArJ8bUmRL?usp=sharing)
 
 [Yolo](https://colab.research.google.com/drive/1Fz4q_NRSEPkz8jVPJM-qrOQEYLmRrbEv?usp=sharing)
-
-[Projects](https://docs.google.com/document/d/1jN0r_sQBO9LokUmi0_TQZUkyb7Z1Vdz6mORofGj2Kzk/edit?usp=sharing)
 
 [Audio](https://colab.research.google.com/drive/1lrasjDqOvOz4h1vAbuCfiaJCVzpmXOuq?usp=sharing)
 
