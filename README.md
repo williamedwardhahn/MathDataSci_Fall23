@@ -1,6 +1,7 @@
 # Mathematics of Data Science
 
 <img src="https://raw.githubusercontent.com/williamedwardhahn/MathDataSci_Fall23/main/diatoms.png" width="500">
+
 [Projects](https://docs.google.com/document/d/1jN0r_sQBO9LokUmi0_TQZUkyb7Z1Vdz6mORofGj2Kzk/edit?usp=sharing)
 
 
