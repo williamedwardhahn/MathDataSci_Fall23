@@ -6,6 +6,12 @@
 [Overleaf](https://www.overleaf.com/latex/templates)
 
 
+## Deliverables
+* Github Readme
+* Overleaf PDF Report
+* CV
+
+
 ## Wave Grant
 [Grant App
 ](https://www.fau.edu/innovation-and-business-development/fau-wave/fau-wave-competition/)
